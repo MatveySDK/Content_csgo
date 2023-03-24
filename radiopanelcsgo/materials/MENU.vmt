@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$baseTexture MENU
+	$translucent 1
+}
